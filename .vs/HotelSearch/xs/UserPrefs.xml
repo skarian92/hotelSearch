@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F53FB831-921B-F813-46D4-956F28E5F99A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Lean/Touch/Examples/Scripts/LeanFingerTap.cs">
+    <Files>
+      <File FileName="Assets/App/App.cs" Line="17" Column="46" />
+      <File FileName="Assets/arkit-placement/Scripts/PlacementHandler.cs" Line="133" Column="1" />
+      <File FileName="Assets/arkit-placement/Scripts/PlaneGenerator.cs" Line="24" Column="1" />
+      <File FileName="Assets/arkit-placement/Scripts/ARHitTest.cs" Line="12" Column="34" />
+      <File FileName="Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/UnityARGeneratePlane.cs" Line="31" Column="10" />
+      <File FileName="Assets/UnityARKitPlugin/Examples/ARKit2.0/UnityARWorldMap/WorldMapManager.cs" Line="22" Column="40" />
+      <File FileName="Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/UnityARHitTestExample.cs" Line="12" Column="27" />
+      <File FileName="Assets/3DModels/lowPolyCIty/NewImageEffectShader.shader" Line="81" Column="1" />
+      <File FileName="Assets/sanket/scripts/TapHandler.cs" Line="15" Column="12" />
+      <File FileName="Assets/Lean/Touch/Examples/Scripts/LeanRotateCustomAxis.cs" Line="22" Column="21" />
+      <File FileName="Assets/Lean/Touch/Examples/Scripts/LeanFingerTap.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sanketbansal/GitHub/mmt/HotelSearch/Assets/arkit-placement/Scripts/PlacementHandler.cs" relfile="Assets/arkit-placement/Scripts/PlacementHandler.cs" line="133" column="1" />
+      <Breakpoint file="/Users/sanketbansal/GitHub/mmt/HotelSearch/Assets/arkit-placement/Scripts/PlacementHandler.cs" relfile="Assets/arkit-placement/Scripts/PlacementHandler.cs" line="53" column="1" />
+      <Breakpoint file="/Users/sanketbansal/GitHub/mmt/HotelSearch/Assets/arkit-placement/Scripts/PlacementHandler.cs" relfile="Assets/arkit-placement/Scripts/PlacementHandler.cs" line="52" column="17" />
+      <Breakpoint file="/Users/sanketbansal/GitHub/mmt/HotelSearch/Assets/App/App.cs" relfile="Assets/App/App.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HotelSearch PreferredExecutionTarget="Unity.Editor" />
+</Properties>
